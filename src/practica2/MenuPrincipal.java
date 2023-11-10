@@ -89,7 +89,7 @@ public class MenuPrincipal extends JFrame {
         menuItemC4=new JMenuItem("Mostrar");
         menuC.add(menuItemC4);
 
-        menuItemAbout =new JMenuItem("Informacion");
+        menuItemAbout =new JMenuItem("Información");
         menuAbout.add(menuItemAbout);
 
         ImageIcon imageIcon = new ImageIcon("src/cool-guy-emoticon (1).gif");
